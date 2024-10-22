@@ -69,7 +69,7 @@
         <h1><center>Sensor de Humo</center></h1>
         <nav>
             <ul>
-                <li><a href="https://github.com/alexokun14/Proyecto-Sensor-de-humo/blob/Sensor-de-humo/Sistemas%20de%20control.html">Sistema de control</a></li>
+                <li><a href="Sistemas de control.html">Sistema de control</a></li>
                 <li><a href="file:///C:/Users/alexa/OneDrive/Escritorio/Página%20web%20Grupo%204/Gestion%20de%20riesgo.html">Gestión de riesgo</a></li>
                 <li><a href="file:///C:/Users/alexa/OneDrive/Escritorio/Página%20web%20Grupo%204/Programación.html">Programación</a></li>
                 <li><a href="file:///C:/Users/alexa/OneDrive/Escritorio/Página%20web%20Grupo%204/Sistema%20eletrico.html">Sistema eléctrico</a></li>
